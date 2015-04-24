@@ -11,7 +11,4 @@ public class Page {
         return mImage;
     }
 
-    public void setImage(int mImage) {
-        this.mImage = mImage;
-    }
 }
